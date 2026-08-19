@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Ternary Search
 |  |
 | ------- |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
