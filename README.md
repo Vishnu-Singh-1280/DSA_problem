@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/1004-max-consecutive-ones-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0069-sqrtx) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
 | ------- |
