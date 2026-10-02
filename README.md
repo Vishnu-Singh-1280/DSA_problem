@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0258-add-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
