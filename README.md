@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/1108-defanging-an-ip-address) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
