@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vishnu-Singh-1280/DSA_problem/tree/master/1108-defanging-an-ip-address) |
 ## Bit Manipulation
 |  |
